@@ -1,0 +1,219 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+body {
+ background-color:#000000;    
+}
+
+
+
+
+.my-container {
+    background-color:#808080;
+    padding-top: 50px;
+}
+
+.my-col {
+    font-family: monospace, sans-serif;
+    font: bold;
+    color: #805100;
+    margin-right: 100px;
+    margin-left: 30px;
+
+}
+.new-col {
+    padding-bottom: 25px;
+    
+
+}
+
+
+.my-fluid {
+    background-color: #262626;
+}
+
+.first-fluid {
+    background-color: #FDE281;
+}
+
+.logo {
+   height: 100px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    animation-timing-function: linear;
+}
+
+.a:link {
+    color: orange;
+    background-color: #ffb833;
+
+
+
+}
+
+a:hover {
+    color: orange;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 18px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #dbbdbd!important;
+  }
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  .navbar-nav .active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+
+.carousel-item {
+    height: 650px;
+   padding: 0px;
+   margin-top: 0px;
+}
+ @media (max-width: 600px) {
+    .carousel-caption {
+      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+ }
+.media-row {
+    padding-top: 60px;
+}
+.second-container {
+    background-color: #808080;
+    margin-right: 0px;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 50%;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+.h1 {
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+.text-center {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.card {
+    width: 25em;
+    border-color: #ffe6b3;
+    border-width: thick;
+    background-color: #cccccc;
+}
+.media-col {
+   margin-left: -130px;
+   
+}
+.h3 {
+    font-family: 'Macondo Swash Caps', cursive;
+}
+.media-row {
+    padding-top: 10px;
+}
+
+
+footer {
+  background-color:#404040;
+  margin-top: -80px;
+}
+.events-container {
+    background-color: #ffffff;
+    margin-right: 100px;
+    margin-bottom: 5px;
+}
+.about-us {
+    background-color: #ffffff;
+}
+.article-header {
+font-family: fantasy;
+margin-top: 20px;
+}
+
+.personal-info {
+    font-family: 'Anton', sans-serif;
+    background-color: #bfbfbf;
+    margin-right:0px;
+     margin-left:40px;
+    
+}
+.band-info {
+ font-family: 'Ramabhadra', sans-serif;
+}
+.no-gutters {
+  margin-right: 0px;
+  margin-left: -0px;
+    padding-right: 0px;
+    padding-left: 0;
+}
+.name {
+    color: #ffffff;
+}
+.band-heading {
+    font-family: monospace;
+    padding-top: 30px;
+}
+
+.band-info {
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-bottom: 10px;
+    margin-left: 120px;
+}
+.media-container {
+    background-color:  #e6e6e6;
+    padding-top: 30px;
+}
+.photo-heading {
+    font-family: fantasy;
+    
+}
+.spotify-section {
+    padding-top: 30px;
+}
+
+.music-container {
+    background-color:#d9d9d9;
+
+   
+}
+.music-heading {
+    font-family: fantasy;
+    color: #0d0d0d;
+}
+.video-section {
+    background-color: #737373;
+    padding-top: 25px;
+}
+.video-heading {
+    font-family: fantasy;
+}
+.social-media {
+    padding-top: 30px;
+}
