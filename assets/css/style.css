@@ -43,7 +43,6 @@ body {
     -webkit-transition: all .5s ease-in-out;
     animation-timing-function: linear;
 }
-
 .a:link {
     color: orange;
     background-color: #ffb833;
@@ -81,16 +80,8 @@ a:hover {
     border-color: transparent;
   }
 
-.carousel-item {
-    height: 650px;
-   padding: 0px;
-   margin-top: 0px;
-}
- @media (max-width: 600px) {
-    .carousel-caption {
-      display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
-    }
- }
+
+
 .media-row {
     padding-top: 60px;
 }
@@ -124,7 +115,6 @@ a:hover {
 .card {
     width: 25em;
     border-color: #ffe6b3;
-    border-width: thick;
     background-color: #cccccc;
 }
 .media-col {
@@ -213,6 +203,8 @@ margin-top: 20px;
 }
 .video-heading {
     font-family: fantasy;
+    display: flex;
+    flex-wrap :wrap;
 }
 .social-media {
     padding-top: 30px;
