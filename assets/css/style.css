@@ -1,10 +1,17 @@
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
+/*-------------
 body {
- background-color:#000000;    
+ background-color:#000000;  
+ padding: 0;
 }
-
+*/
+html,body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins',sans-serif;
+  color: #303030;
+}
 
 
 
@@ -21,13 +28,9 @@ body {
     margin-left: 30px;
 
 }
-.new-col {
-    padding-bottom: 25px;
-    
-
+.my-row {
+    background-color:#383838;
 }
-
-
 .my-fluid {
     background-color: #262626;
 }
@@ -77,7 +80,7 @@ a:hover {
     background-color: #29292c !important;
   }
   .navbar-default .navbar-toggle {
-    border-color: transparent;
+    border-color: #595959;
   }
 
 
@@ -114,8 +117,14 @@ a:hover {
 
 .card {
     width: 25em;
-    border-color: #ffe6b3;
-    background-color: #cccccc;
+    background:#585858;
+    
+}
+.card-container {
+    background:#202020;
+}
+.card-img-top{
+    padding-left: 10px;
 }
 .media-col {
    margin-left: -130px;
@@ -130,16 +139,28 @@ a:hover {
 
 
 footer {
-  background-color:#404040;
-  margin-top: -80px;
+    font-family: 'Macondo Swash Caps';
+    font:bold;
+    color:#ffffff;
+  background-color:#282828;
 }
 .events-container {
-    background-color: #ffffff;
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #383838;
     margin-right: 100px;
     margin-bottom: 5px;
 }
+.container-fluid-wrapper {
+    font-family: monospace;
+    color: #ffffff;
+    background-color: #686868;
+}
 .about-us {
-    background-color: #ffffff;
+    padding-top: 3rem;
+    font:bold;
+    color:#FFFFFF;
+    background:#202020;
 }
 .article-header {
 font-family: fantasy;
@@ -177,13 +198,43 @@ margin-top: 20px;
     margin-left: 120px;
 }
 .media-container {
-    background-color:  #e6e6e6;
+    background-color: #303030;
     padding-top: 30px;
+}
+.media-row {
+    background-color:#202020;
+    padding-top:30px;
 }
 .photo-heading {
     font-family: fantasy;
     
 }
+.social a {
+  font-size:4.5em;
+  padding:3rem;
+  
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-instagram {
+  color: #517fa4;
+}
+
+.fa-twitter {
+  color: #00aced;
+}
+.fa-youtube {
+  color:#bb0000;
+}
+.fa-facebook:hover,
+.fa-instagram:hover,
+.fa-twitter:hover,
+.fa-youtube:hover{
+color:#d5d5d5;
+}
+
 .spotify-section {
     padding-top: 30px;
 }
@@ -208,4 +259,32 @@ margin-top: 20px;
 }
 .social-media {
     padding-top: 30px;
+    font:Bold;
+    color:#ffffff;
+    background-color:#484848;
+}
+
+
+@media (max-width: 576px) {
+  .carousel-caption h1 {
+  font-size:250%; text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3 {
+  font-size :110%;
+}
+.carousel-caption .btn {
+  font-size:90%;
+  padding:4px 8px;
+}
+.carousel-indicators{
+  display:none;
+}
+display-4 {
+  font-size:160%;
+}
+.social a {
+  font-size:2em;
+  padding:.7em;
+}
 }
