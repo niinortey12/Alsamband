@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -16,3 +17,7 @@ The website consist of four Pages:
 
 4. Events: This page consist events,tour dates and bookings, comments from fans and links to their social media platforms.
 
+=======
+#Alsam Band Website.
+
+>>>>>>> c42cd40924935df923568e10cc4d5c9880cf05be
