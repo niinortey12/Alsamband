@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # H1 ALSAM BAND WEBSITE
 
 This website is a responsive site designed for an Austrailian based band who wants to widen their fan base.
@@ -17,3 +18,7 @@ The website consist of four Pages:
 
 This section shows us the skeleton 
 # personal-project
+=======
+# personal-project
+Website for a band
+>>>>>>> 7e4f9eed2f54306d02891956f41150511d821466
