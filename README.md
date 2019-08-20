@@ -31,8 +31,13 @@ The website has the following features:
 
 1. Photos. 2. Videos 3.Audios 4. Comments 5. Booking.
 
+<<<<<<< HEAD
 This section shows us the skeleton, mockups and wireframs of the project. 
 
 Below is are links to the mockups and wireframes:
 
 https://media.giphy.com/media/YP23WZRhbOVe3nZ1nG/giphy.mp4
+=======
+
+
+>>>>>>> 6c473a7de1d3e5b70a79a9c01e087dcb1437b925
