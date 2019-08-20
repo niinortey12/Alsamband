@@ -33,3 +33,5 @@ The website has the following features:
 
 This section shows us the skeleton 
 # personal-projectw
+
+https://media.giphy.com/media/YP23WZRhbOVe3nZ1nG/giphy.mp4
