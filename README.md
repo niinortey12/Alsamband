@@ -31,5 +31,8 @@ The website has the following features:
 
 1. Photos. 2. Videos 3.Audios 4. Comments 5. Booking.
 
-This section shows us the skeleton 
-# personal-projectw
+This section shows us the skeleton, mockups and wireframs of the project. 
+
+Below is are links to the mockups and wireframes:
+
+https://media.giphy.com/media/YP23WZRhbOVe3nZ1nG/giphy.mp4
