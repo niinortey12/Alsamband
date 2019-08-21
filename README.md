@@ -69,34 +69,40 @@ In this section, you should go over the different parts of your project, and des
 - The Audio feature which is was embeded from spotify also sends you to their spotify page which gives has all their music.
 - The comment feature allows you to interract with the band directly whiles on the webpage
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+I plan on allowing the photo feature to be clickable in other for the user to have a wider or larger view of the photos.As seen in 
+the webpage. The photos  clickable as intended but will be implemented in the near future. I would like to also implement a live chat section where
+fans or potential fans can be able to chat with band while they visit the webpage. A robot feature will be added in feature
+
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
 - [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Bootstrap4](https://getbootstrap.com)
+- [html5](https://www.w3schools.com)
+- [css](https://www.w3schools.com)
+- [Font Awesome](https://use.fontawesome.com/releases/v5.8.1/css/all.css)
+- [Font Awesome Icons](https://fontawesome.com)
+- [Bootstrap Cdn](https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css)
+
 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+I have conducted enough testing and i strongly believe that the site works properly and as intended to be. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
 
 For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+1. Comments
+    1. "Go to the Events page" scroll down the page and go to the comment section
+    2. "Fill in an empty field and press the submit button"
+    3. "A thank you for submitting mesage will be displayed below"
+   
+2. Booking 
+   1. Go to the Events Page" scroll down the page to the 
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
