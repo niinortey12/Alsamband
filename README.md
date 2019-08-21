@@ -35,7 +35,7 @@ The website has the following features:
 
 Below is a link to the Mockups and Wireframes.
 
- [mockups](mockup.html)
+ [Mockups](https://github.com/niinortey12/Alsamband/tree/master/mockup)
 
 
 # Alsam Band
