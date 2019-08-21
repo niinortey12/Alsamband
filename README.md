@@ -15,6 +15,25 @@ This project has been designed to increase their fan base by including their pre
 incliudes videos, audios and photos of the band, thus linking their social media pages to the website.
 
 
+
+
+
+# Alsam Band
+
+This website is a responsive website designed for an Austrailian based band with the aim of widening their fan base and allowing their
+miusic to resonate with their fans when they listen to the audio and video files added on the webpage.
+
+The website aims at targeting potential fans and giving them a feel of the band events and an opportunity to connect with them.
+ 
+## UX
+ 
+The website designed for Alsam band, an Australian based band who have been in existence over the past 3 decades. It aims at
+enlarging their fan base.
+
+This project has been designed to increase their fan base by including their previous and future events and tours on the website. This
+incliudes videos, audios and photos of the band, thus linking their social media pages to the website.
+
+
 The website consist of four Pages:
 
 1. Home page: This page consist of information about "The Band", the teams ,photos, videos and links to their social media pages.
@@ -23,9 +42,12 @@ The website consist of four Pages:
 
 3. Media: The media page consist of photos, audios , videos and links to their social media platforms.
 
-4. Events: This page consist events,tour dates and bookings, comments from fans and links to their social media platforms.
+4. Events: This page consist ofnevents,tour dates and bookings, comments from fans and links to their social media platforms.
 
-Each page in the website has a link which to their social media page. 
+Each page in the website has a link to their social media platforms. 
+
+
+## Features
 
 The website has the following features:
 
@@ -38,29 +60,14 @@ Below is a link to the Mockups and Wireframes.
  [Mockups](https://github.com/niinortey12/Alsamband/tree/master/mockup)
 
 
-# Alsam Band
-
-This website is a responsive website designed for an Austrailian based band with the aim of widening their fan base and allowing their
-miusic to resonate with their fans when they listen to the audio and video files implemented on the webpage.
-
-The website aims at targeting potential fans and giving them a feel of the band events and an opportunity to connect with them.
- 
-## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
-## Features
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- The photo feature allows you to view their photos.
+- The video feature allows the user to watch present and past videos. It navigates to their Youtube Channel.
+- The Audio feature which is was embeded from spotify also sends you to their spotify page which gives has all their music.
+- The comment feature allows you to interract with the band directly whiles on the webpage
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
