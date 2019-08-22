@@ -1,14 +1,9 @@
-# ALSAM BAND WEBSITE
 
-This website is a responsive website designed for an Austrailian based band with the aim of widening their fan base and allowing their
-miusic to resonate with their fans when they listen to the audio and video files implemented on the webpage.
-
-The website aims at targeting potential fans and giving them a feel of the band events and an opportunity to connect with them.
 
 
 # UX
 
-The website designed for Alsam band, an Australian based band who have been in existence over the past 3 decades. It aims at
+The website designed for Alsam band, an Australian based band who have been in existence for over the past 3 decades. It aims at
 enlarging the fan base of the band.
 
 This project has been designed to increase their fan base by including their previous and future events and tours on the website. This
@@ -27,11 +22,10 @@ The website aims at targeting potential fans and giving them a feel of the band 
  
 ## UX
  
-The website designed for Alsam band, an Australian based band who have been in existence over the past 3 decades. It aims at
-enlarging their fan base.
+My objective for this website is to design a responsive website to target a larger number of audience.
 
-This project has been designed to increase their fan base by including their previous and future events and tours on the website. This
-incliudes videos, audios and photos of the band, thus linking their social media pages to the website.
+Photos, videos and Audios have been included in the website. It also has their previous and future events and tours on the website. Fans 
+can also connect with them on their social media pages. 
 
 
 The website consist of four Pages:
@@ -52,23 +46,24 @@ Each page in the website has a link to their social media platforms.
 The website has the following features:
 
 1. Photos. 2. Videos 3.Audios 4. Comments 5. Booking.
+2. Navbar
 
-<p>This section shows us the skeleton, mockups and wireframs of the project.
-
-Below is a link to the Mockups and Wireframes.
-
- [Mockups](https://github.com/niinortey12/Alsamband/tree/master/mockup)
-
+<p>This section shows us the skeleton, mockups and wireframes of the project.
 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
  
-### Existing Features
 - The photo feature allows you to view their photos.
 - The video feature allows the user to watch present and past videos. It navigates to their Youtube Channel.
 - The Audio feature which is was embeded from spotify also sends you to their spotify page which gives has all their music.
-- The comment feature allows you to interract with the band directly whiles on the webpage
+- The comment feature allows you to interract with the band directly whiles on the webpage.
+- 
 
+# Mockups and Wireframes.
+
+The sketches below were used to design the layout.
+
+[Desktop](https://github.com/niinortey12/Alsamband/tree/master/mockup)
 
 ### Features Left to Implement
 I plan on allowing the photo feature to be clickable in other for the user to have a wider or larger view of the photos.As seen in 
@@ -77,6 +72,19 @@ fans or potential fans can be able to chat with band while they visit the webpag
 
 
 ## Technologies Used
+
+* HTML5 - It was used in defining the structure of the project.
+
+* CSS - I used cascading style sheet(CSS) to style the project.
+
+* Bootstrap4 - The project used Javascript to implement interactive elemets to the web document.
+
+
+
+
+
+
+
 
 - [JQuery](https://jquery.com)
 - [Bootstrap4](https://getbootstrap.com)
