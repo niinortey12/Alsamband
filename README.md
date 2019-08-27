@@ -2,7 +2,7 @@
 
 # Alsam Band
 
-[gifs](https://github.com/niinortey12/Alsamband/blob/master/gif/2019-08-27%2011.15.24.gif)
+[gifs](https://github.com/niinortey12/Alsamband/blob/master/new.gif)
 
 This website is a responsive website designed for an Austrailian based band with the aim of increasing their fan base with their
 music resonating with their fans when they listen to the audio and video files added on the webpage.
