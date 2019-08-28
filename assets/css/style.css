@@ -29,11 +29,11 @@ body {
     margin-left: 30px;
 
 }
-/*    first row             */
+/* first row */
 .my-row {
     background-color: #383838;
 }
-/*    customized container             */
+/* customized container  */
 .my-fluid {
     background-color: #262626;
 }
@@ -41,7 +41,7 @@ body {
 .first-fluid {
     background-color: #FDE281;
 }
-/*      logo           */
+/* logo*/
 .logo {
     height: 100px;
     transition: all .5s ease-in-out;
@@ -63,7 +63,7 @@ a:hover {
     background-color: transparent;
     text-decoration: underline;
 }
-/*   Navbars              */
+/*  Navbars */
 .navbar {
     font-family: Montserrat, sans-serif;
     margin-bottom: 0;
@@ -73,7 +73,7 @@ a:hover {
     letter-spacing: 4px;
     opacity: 0.9;
 }
-/*                 */
+
 .navbar li a,
 .navbar .navbar-brand {
     color: #dbbdbd!important;
@@ -87,24 +87,24 @@ a:hover {
     color: #fff !important;
     background-color: #29292c !important;
 }
-/*    navbar toggler background color             */
+/* navbar toggler background color */
 .navbar-default .navbar-toggle {
     border-color: #595959;
 }
 
 
-/*  This contains my first media row              */
+/* This contains my first media row */
 .media-row {
     padding-top: 50px;
     padding: 0;
     padding-left: 5px;
 }
-/*                */
+/* Second-container*/
 .second-container {
     background-color: #808080;
     margin-right: 0px;
 }
-/*                 */
+/*  Opaque-overlay */
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -114,7 +114,7 @@ a:hover {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-/*   Headings and text centerd              */
+/* Headings and text centerd */
 .h1 {
     font-family: sans-serif;
     font-weight: bolder;
@@ -122,12 +122,11 @@ a:hover {
 
 }
 
-/*                 */
 .text-center {
     margin-right: 50px;
     margin-left: 50px;
 }
-/*   Card hover effects              */
+/*  Card hover effects */
 .card img:hover {
     opacity: .8;
     transition: .5s;
@@ -135,7 +134,7 @@ a:hover {
     background-color: #202020;
 
 }
-/*   Card body               */
+/* Card body */
 .card-body {
     margin: 0;
     padding: 0;
@@ -143,41 +142,40 @@ a:hover {
     color: #ffffff;
     background-color: #202020;
 }
-/*   Card container              */
+/* Card container */
 .card-container {
     background: #202020;
 }
-/*                 */
+
 .card-img-top {
     padding-left: 10px;
     background-color: #202020;
 }
-/*                 */
 .media-col {
     margin-left: -130px;
 
 }
-/*                 */
+
 .h3 {
     font-family: 'Macondo Swash Caps', cursive;
 }
-/*                 */
+
 .media-row {
     padding: 0;
 }
 
-/*                 */
+/* Footer */
 footer {
     font-family: 'Macondo Swash Caps';
     font: bold;
     color: #ffffff;
     background-color: #282828;
 }
-/*                 */
+
 .footer-ab {
     background-color: #000000;
 }
-/*                 */
+/*Events */
 .events-container {
     font-family: sans-serif;
     color: #ffffff;
@@ -186,11 +184,10 @@ footer {
     margin-right: 0px;
     margin-bottom: 0px;
 }
-/*                 */
 .es {
     background-color: #101010;
 }
-/*                 */
+/* Container-fluid-wrapper               */
 .container-fluid-wrapper {
     font-family: monospace;
     color: #ffffff;
@@ -404,22 +401,13 @@ footer {
     background-color: #202020;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-
-@media screen and (max-width: 800px) {
-    .column {
-        -ms-flex: 50%;
-        flex: 50%;
-        max-width: 50%;
-    }
+modal-header, h4, .close {
+  background-color: #333;
+  color: #fff !important;
+  text-align: center;
+  font-size: 30px;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-
-@media screen and (max-width: 600px) {
-    .column {
-        -ms-flex: 100%;
-        flex: 100%;
-        max-width: 100%;
-    }
+.modal-header, .modal-body {
+  padding: 40px 50px;
 }
