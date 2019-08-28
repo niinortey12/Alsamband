@@ -7,7 +7,7 @@
 This website is a responsive website designed for an Austrailian based band with the aim of increasing their fan base with their
 music resonating with their fans when they listen to the audio and video files added on the webpage.
 
-The website aims at targeting potential fans and giving them a feel of the band events and an opportunity to connect with them.
+The website aims at targeting potential fans, giving them a feel of the band events and an opportunity to connect with them.
  
 
 
@@ -19,7 +19,7 @@ The website consist of four Pages:
 
 3. Media: The media page consist of photos, audios , videos and links to their social media platforms.
 
-4. Events: This page consist ofnevents,tour dates and bookings, comments from fans and links to their social media platforms.
+4. Events/Tours : This page consist of events,tour dates and bookings, comments from fans and links to their social media platforms.
 
 Each page in the website has a link to their social media platforms. 
 
@@ -32,9 +32,8 @@ A demo of the website is avaliable [here](https://niinortey12.github.io/Alsamban
  
 My objective for this website is to design a responsive website to target a larger number of audience.
 
-Photos, videos and Audios have been included in the website. It also has their previous and future events and tours on the website. Fans 
-can also connect with them on their social media pages. 
-
+Photos, videos and Audios have been included in the website. It also includes their past and future events and tours on the website. Fans 
+can also connect with the band via  their social media pages. 
 
 
 
@@ -91,6 +90,8 @@ fans or potential fans can be able to chat with band while they visit the webpag
 * HTML5 - It was used in defining the structure of the project.
 
 * CSS - I used cascading style sheet(CSS) to style the project.
+
+
 
 
 
@@ -175,13 +176,10 @@ Large screens (Each row has 3-4 columns)
 
 ## Deployment
 
-The websie was deployed using Git and Github (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
 -The website was deployed to the branch master on Github.
 
 ### Media
-- The photos used in this site were obtained from the websites below:
+- The photos used in this site were obtained from the link below:
 [facebook](https://www.facebook.com/pg/hillsongunited/photos/?tab=album&album_id=492871885812&ref=page_internal)
 [Instagram](https://www.instagram.com/hillsong/)
 
@@ -198,6 +196,13 @@ In particular, you should provide all details of the differences between the dep
 - This project was inspired by [Hillsong]
 - The content in the about section was taking from [wikipedia](https://en.wikipedia.org/wiki/Hillsong)
 - The codes in the events page were inspired by [w3schools](https://www.w3schools.com/)
+
+<p>I would like to thank my Mentor Maranatha Ilesanmi for his guidance and support throughout this project.
+
+<p> I would also like to thank my wife for the support throught this project
+
+## Disclaimer
+This is for educational purposes
 
 
 
