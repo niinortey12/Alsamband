@@ -123,47 +123,81 @@ fans or potential fans can be able to chat with band while they visit the webpag
 CSS code was validated using the W3C CSS [Validation Service- Jigsaw](https://jigsaw.w3.org/css-validator/)
 
 In the process of validation the CSS code, the following warning appeared: 
-"Imported style sheets are not checked in direct input and file upload modes". 
-Warning was investigated and this Stack Overflow thread explained that it is just an information that imported style sheet will not be validated.
+root	Parse Error {--blue:#007bff;
+:root	Parse Error ;--indigo:#6610f2;
+6	:root	Parse Error ;--purple:#6f42c1;
+6	:root	Parse Error ;--pink:#e83e8c;
+6	:root	Parse Error ;--red:#dc3545;
+6	:root	Parse Error ;--orange:#fd7e14;
+6	:root	Parse Error ;--yellow:#ffc107;
+6	:root	Parse Error ;--green:#28a745;
+6	:root	Parse Error ;--teal:#20c997;
+6	:root	Parse Error ;--cyan:#17a2b8;
+6	:root	Parse Error ;--white:#fff;
+6	:root	Parse Error ;--gray:#6c757d;
+6	:root	Parse Error ;--gray-dark:#343a40;
+6	:root	Parse Error ;--primary:#007bff;
+6	:root	Parse Error ;--secondary:#6c757d;
+6	:root	Parse Error ;--success:#28a745;
+6	:root	Parse Error ;--info:#17a2b8;
+6	:root	Parse Error ;--warning:#ffc107;
+6	:root	Parse Error ;--danger:#dc3545;
+6	:root	Parse Error ;--light:#f8f9fa;
+6	:root	Parse Error ;--dark:#343a40;
+6	:root	Parse Error ;--breakpoint-xs:0;
+6	:root	Parse Error ;--breakpoint-sm:576px;
+6	:root	Parse Error ;--breakpoint-md:768px;
+6	:root	Parse Error ;--breakpoint-lg:992px;
+6	:root	Parse Error ;--breakpoint-xl:1200px;
+6	:root	Parse Error ;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+6	:root	Parse Error ;--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+6	abbr[data-original-title], abbr[title]	Property text-decoration-skip-ink doesn't exist : none
+6	.toast	Property backdrop-filter doesn't exist : blur(10px)
 
-Also, this warning remains unresolved: "hover is an unknown vendor extension" since the validator does not recognise vendor specific extensions.
-I have conducted enough testing and i strongly believe that the site works properly and as intended to be. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+Posted this Stack Overflow thread explained that it is just an information that imported style sheet will not be validated.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+These warnings remain unresolved
+I have conducted enough testing and i strongly believe that the site works properly and as intended to be.
 
+The website works perfectly on as intended. It is responsive and works on different screens. 
+-iPad Pro, iPad, iPad Mini (portrait & landscape);
 
+iPhone 5/SE (portrait; each column takes the full width on the row)
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+iPhone 6/7/8 (portrait each column takes the full width on the row)
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+iPhone 6/7/8 Plus (portrait; each column takes the full width on the row)
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+iPhone X (portrait each column take the full width on the row)
+
+Large screens (Each row has 3-4 columns)
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The websie was deployed using Git and Github (e.g. GitHub Pages or Heroku).
 
 In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-
-## Credits
-
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+-The website was deployed to the branch master on Github.
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from the websites below:
+[facebook](https://www.facebook.com/pg/hillsongunited/photos/?tab=album&album_id=492871885812&ref=page_internal)
+[Instagram](https://www.instagram.com/hillsong/)
+
+## Videos
+- Videos were obtained from their official [Youtube Page](https://www.youtube.com/channel/UC4q12NoPNySbVqwpw4iO5Vg)
+
+## Audios
+-The Audious on the webpage was embeded from spotify [spotify](https://open.spotify.com/search/hillsong)
+
+
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- This project was inspired by [Hillsong]
+- The content in the about section was taking from [wikipedia](https://en.wikipedia.org/wiki/Hillsong)
+- The codes in the events page were inspired by [w3schools](https://www.w3schools.com/)
 
 
 
